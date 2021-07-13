@@ -13,4 +13,4 @@ should ring
 Bonus : Try using a neopixel LED strip and make it
 glow when maximum force is applied.
 
-<img src=“C:\Users\Vj\Desktop\high-striker image.jpg”>
+tinker this project @ https://www.tinkercad.com/things/ao0zfaVwmkR-surprising-rottis/editel?sharecode=GLnxXAXf3nzqkbM1WNzDXFMBWSOvQCYkAoOFMhjU_T0
