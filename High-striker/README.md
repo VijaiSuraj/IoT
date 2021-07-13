@@ -12,3 +12,5 @@ applied.
 should ring
 Bonus : Try using a neopixel LED strip and make it
 glow when maximum force is applied.
+
+C:\Users\Vj\Desktop\high-striker image.jpg
