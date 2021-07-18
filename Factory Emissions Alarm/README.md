@@ -19,4 +19,6 @@ approaching the affected area.
 ● If the air quality is poor, the alarm(Buzzer +LED) should go off when an
 employee approaches the workplace (Ultrasonic sensor)
 
+
+
 Link: https://www.tinkercad.com/things/7j7Tse0xwuo
