@@ -10,7 +10,9 @@ connected via I2C(1 master 2 slaves)
 which helps serve your needs.
 
  ● Master : LED and Buzzer which alerts your employees
+ 
  ● Slave 1 : Gas sensor to sense the quality of air.
+ 
  ● Slave 2 : Ultrasonic sensor which senses the presence of an employee
 approaching the affected area.
 
