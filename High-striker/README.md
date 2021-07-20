@@ -1,4 +1,4 @@
-# High Striker
+# High Striker using Arduino
 You go to a fair and want to play High-striker
 (strongman game). But just before your turn, the game
 malfunctions. To fix this, you have to Design a circuit
