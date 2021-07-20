@@ -1,4 +1,4 @@
-# Supermarket Headcount
+# Supermarket Headcount using Arduino
 You own a supermarket and you want to have a device which can tell you the
 number of people in the store at any given moment. So, you decide to design a
 circuit using Arduino, PIR sensors and an
