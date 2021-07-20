@@ -1,4 +1,4 @@
-# Factory Emissions Alarm
+# Factory Emissions Alarm using Arduino
 You own a factory. The factory produces toxic gases everyday which get filtered
 before being released into the
 atmosphere. But, to be on the safer side,
